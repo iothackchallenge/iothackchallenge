@@ -125,8 +125,8 @@ header.masthead {
   padding-bottom: 100px;
   color: white;
   background: url("../img/bg-pattern.png"), #78ad06;
-  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #78ad06, #0326b2);
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #78ad06, #0326b2); }
+  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #ffffff, #ffffff);
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #ffffff, #ffffff); }
   header.masthead .header-content {
     max-width: 500px;
     margin-bottom: 100px;
@@ -202,8 +202,8 @@ section.features .feature-item {
     font-size: 80px;
     display: block;
     margin-bottom: 15px;
-    background: -webkit-linear-gradient(to left, #78ad06, #0326b2);
-    background: linear-gradient(to left, #78ad06, #0326b2);
+    background: -webkit-linear-gradient(to left, #ffffff, #ffffff);
+    background: linear-gradient(to left, #ffffff, #ffffff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
 
@@ -288,13 +288,13 @@ footer {
     background: linear-gradient(#ffffff, #ffffff); }
 .bg-primary1 {
   background: #78ad06;
-  background: -webkit-linear-gradient(#ffffff, #78ad06);
-  background: linear-gradient(#ffffff, #78ad06); }
+  background: -webkit-linear-gradient(#78ad06, #78ad06);
+  background: linear-gradient(#78ad06, #78ad06); }
 
 .bg-primary2 {
     background: #78ad06;
-    background: -webkit-linear-gradient(#ffffff, #0326b2);
-    background: linear-gradient(#ffffff, #0326b2); }
+    background: -webkit-linear-gradient(#0326b2, #0326b2);
+    background: linear-gradient(#0326b2, #0326b2); }
 
 .text-primary {
   color: #78ad06; }
